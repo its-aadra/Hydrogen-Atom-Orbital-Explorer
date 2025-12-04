@@ -21,3 +21,32 @@ It provides intuitive viosual understanding of:
 - Use exact hydrogen wavefunctions:
  - Radial wavefunction
  - Angular wavefunction 
+## Interactive Controls
+- Select values of n, l, m
+- Toggle between:
+   - Probability density plots
+   - Isosurface models
+   - 2D cross-sections
+## Educational Mode
+- Built-in explanations for each orbital
+- Color-coded probability regions
+- Tips and therory side panel
+
+## Theory Behind this Project
+
+Hydrogen orbitals are solutions of Schrodinger's equation:
+     Ψn,l,m​(r,θ,ϕ)=Rn,l​(r)Yl,m​(θ,ϕ)
+Where:
+ - n - Principle quantum number
+ - l - Azimuthal quantum number
+ - m - Magnetic quantum number
+This explorer calculates and visualizes these wavefunctions to show electron probabilty density:
+      ∣Ψ∣^2=∣Rn,l​∣^2∣Yl,m​∣^2
+
+## Technologies Used
+
+ - Python
+ - Numpy
+ - Scipy
+ - Matplotlib
+ - Jupyter Notebook
