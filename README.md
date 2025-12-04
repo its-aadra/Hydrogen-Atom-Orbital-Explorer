@@ -49,4 +49,14 @@ This explorer calculates and visualizes these wavefunctions to show electron pro
  - Numpy
  - Scipy
  - Matplotlib
- - Jupyter Notebook
+ - Visual Studio Code
+
+## Installation
+git clone https://github.com/yourusername/Hydrogen-Atom-Orbital-Explorer
+cd Hydrogen-Atom-Orbital-Explorer
+pip install -r requirements.txt
+
+## Contributors
+- Aadra Khattri
+- Naincy Chandra
+
