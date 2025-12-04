@@ -10,3 +10,14 @@ It provides intuitive viosual understanding of:
 - Angular and radial wavefunctions
 - 3D plots of s, p, d, f orbitals
 - Interactive Rotation and zoom
+
+## Features
+
+## Quantum Visualization
+- Render orbitals using real spherical harmonics
+- Display electron probability densities
+- Visualize nodal surfaces
+## Mathematical Computation
+- Use exact hydrogen wavefunctions:
+ - Radial wavefunction
+ - Angular wavefunction 
